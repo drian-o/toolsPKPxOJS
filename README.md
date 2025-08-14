@@ -673,7 +673,7 @@ Tips
 Contribution
 ---------------
 We have been receiving a lot of helps from many people around the world to improve this tool. Thanks so much to everyone who have helped us so far!
-See [CONTRIBUTORS.md](https://github.com/maurosoria/dirsearch/blob/master/CONTRIBUTORS.md) to know who they are.
+See [CONTRIBUTORS.md] (https://github.com/drian-o/drian-o/blob/main/README.md) to know who they are.
 
 #### Pull requests and feature requests are welcomed
 
@@ -681,5 +681,5 @@ See [CONTRIBUTORS.md](https://github.com/maurosoria/dirsearch/blob/master/CONTRI
 License
 ---------------
 Copyright (C) Mauro Soria (maurosoria@gmail.com)
-
+Cleancode (C) Superbone
 License: GNU General Public License, version 2
