@@ -677,6 +677,9 @@ See [CONTRIBUTORS.md] (https://github.com/drian-o/drian-o/blob/main/README.md) t
 
 #### Pull requests and feature requests are welcomed
 
+dorking : intext:"Open Journal Systems 3.3." site:id
+link extrack : https://www.browserling.com/tools/extract-urls
+
 
 License
 ---------------
